@@ -53,7 +53,7 @@ financial-analyst-rag/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/financial-analyst-rag.git
+git clone https://github.com/Kamronbek541/Financial_analyst_rag.git
 cd financial-analyst-rag
 ```
 
