@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-openai
+python-dotenv
+pyyaml
+
+sec-edgar-downloader
+beautifulsoup4
+
+chromadb
+sentence-transformers
+unstructured 
+pypdf 
+
+streamlit
